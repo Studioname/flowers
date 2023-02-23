@@ -1,2 +1,2 @@
 # flowers
- Data cleaning, processing, augmentation and model creation to predict flower types
+ Data cleaning, processing, augmentation and model creation to predict flower tpyes
